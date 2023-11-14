@@ -1,0 +1,1 @@
+alert("I am learning Gulp JS"),console.log("Log Nothing");
